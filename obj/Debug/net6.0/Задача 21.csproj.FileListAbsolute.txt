@@ -1,0 +1,15 @@
+/Users/pavelpashkov/Desktop/Задача 21/bin/Debug/net6.0/Задача 21
+/Users/pavelpashkov/Desktop/Задача 21/bin/Debug/net6.0/Задача 21.deps.json
+/Users/pavelpashkov/Desktop/Задача 21/bin/Debug/net6.0/Задача 21.runtimeconfig.json
+/Users/pavelpashkov/Desktop/Задача 21/bin/Debug/net6.0/Задача 21.dll
+/Users/pavelpashkov/Desktop/Задача 21/bin/Debug/net6.0/Задача 21.pdb
+/Users/pavelpashkov/Desktop/Задача 21/obj/Debug/net6.0/Задача 21.csproj.AssemblyReference.cache
+/Users/pavelpashkov/Desktop/Задача 21/obj/Debug/net6.0/Задача 21.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pavelpashkov/Desktop/Задача 21/obj/Debug/net6.0/Задача 21.AssemblyInfoInputs.cache
+/Users/pavelpashkov/Desktop/Задача 21/obj/Debug/net6.0/Задача 21.AssemblyInfo.cs
+/Users/pavelpashkov/Desktop/Задача 21/obj/Debug/net6.0/Задача 21.csproj.CoreCompileInputs.cache
+/Users/pavelpashkov/Desktop/Задача 21/obj/Debug/net6.0/Задача 21.dll
+/Users/pavelpashkov/Desktop/Задача 21/obj/Debug/net6.0/refint/Задача 21.dll
+/Users/pavelpashkov/Desktop/Задача 21/obj/Debug/net6.0/Задача 21.pdb
+/Users/pavelpashkov/Desktop/Задача 21/obj/Debug/net6.0/Задача 21.genruntimeconfig.cache
+/Users/pavelpashkov/Desktop/Задача 21/obj/Debug/net6.0/ref/Задача 21.dll
