@@ -13,8 +13,9 @@ int z2 = ReadInt("Введите Z точки B: ");
     int lenghZ = z1 + z2;
     double distance = Math.Sqrt((x2-x1)*(x2-x1)+(y2-y1)*(y2-y1)+(z2-z1)*(z2-z1));
     
-    Console.Write($"-> {distance} ");
-
+    
+    string result = distance.ToString("#.##");
+    Console.Write($"-> {result} ");
 
     int ReadInt(String message)
     {
